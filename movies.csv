@@ -1,0 +1,51 @@
+movie_id,title,year,genres,director,actors,runtime,avg_rating,budget_millions
+1,The Last Horizon,1997,Fantasy,Greta Gerwig,Jennifer Lawrence|Denzel Washington|Florence Pugh,93,8.0,149
+2,Echoes of Tomorrow,1995,Horror|Action|Biography,Martin Scorsese,Jennifer Lawrence|Joaquin Phoenix|Margot Robbie,83,7.5,193
+3,Silent Shadows,2024,Thriller|Adventure,Sofia Coppola,Tom Hanks|Cate Blanchett|Timothée Chalamet|Viola Davis,123,6.3,65
+4,The Quantum Paradox,2011,Comedy,Guillermo del Toro,Emma Stone|Margot Robbie,113,8.6,196
+5,Broken Compass,2019,Comedy|Horror|War,Damien Chazelle,Michael B. Jordan|Margot Robbie|Emma Stone|Idris Elba,104,8.2,21
+6,City of Dreams,2004,Comedy|Biography,Denis Villeneuve,Christian Bale|Brad Pitt,138,7.9,103
+7,The Forgotten War,2000,Sci-Fi|Thriller,Greta Gerwig,Margot Robbie|Michael B. Jordan,101,7.4,72
+8,Midnight Chronicles,2000,Horror|Romance,Damien Chazelle,Zendaya|Morgan Freeman|Meryl Streep,109,8.7,90
+9,Rising Phoenix,2015,Comedy|Thriller,Sofia Coppola,Robert Downey Jr.|Michael B. Jordan|Lupita Nyongo|Christian Bale,162,7.1,77
+10,The Lost Kingdom,1998,Fantasy,Damien Chazelle,Florence Pugh|Idris Elba|Viola Davis|Christian Bale,126,6.0,45
+11,Infinite Loop,2022,Comedy|Mystery,Steven Spielberg,Denzel Washington|Michael B. Jordan,100,8.6,118
+12,Dark Matter,1994,Horror|Documentary,Jordan Peele,Saoirse Ronan|Tom Hanks|Zendaya|Florence Pugh,94,8.1,147
+13,The Architect,2007,Sci-Fi|Comedy|Romance,Ava DuVernay,Ryan Gosling|Tom Hanks|Florence Pugh,172,6.2,138
+14,Crimson Dawn,2001,War|Comedy|Crime,Wes Anderson,Denzel Washington|Emma Stone|Cate Blanchett,149,9.3,145
+15,The Time Keeper,1990,Sci-Fi|Adventure|Action,Quentin Tarantino,Natalie Portman|Jennifer Lawrence|Meryl Streep|Idris Elba,90,5.4,134
+16,Neon Nights,1994,Mystery|Drama|Biography,Bong Joon-ho,Brad Pitt|Joaquin Phoenix|Margot Robbie,134,9.3,148
+17,The Final Chapter,2002,Romance|Horror|Crime,Coen Brothers,Joaquin Phoenix|Ryan Gosling|Scarlett Johansson|Jennifer Lawrence|Leonardo DiCaprio,123,5.1,151
+18,Whispers in the Dark,2004,Thriller|Action|Comedy,Steven Spielberg,Leonardo DiCaprio|Meryl Streep|Morgan Freeman,89,7.3,81
+19,The Great Escape,2021,Animation,James Cameron,Jennifer Lawrence|Lupita Nyongo|Viola Davis|Robert Downey Jr.|Scarlett Johansson,92,8.0,100
+20,Digital Dreams,2017,Adventure|Biography,Steven Spielberg,Meryl Streep|Christian Bale,173,6.5,37
+21,The Outsider,2005,Thriller,Damien Chazelle,Denzel Washington|Viola Davis|Cate Blanchett|Brad Pitt|Ryan Gosling,111,8.9,29
+22,Gravity Falls,2018,Comedy|Action|Crime,Damien Chazelle,Leonardo DiCaprio|Jennifer Lawrence,101,6.8,133
+23,The Revolution,2003,War|Action,Ridley Scott,Tom Hanks|Christian Bale|Brad Pitt|Ryan Gosling|Natalie Portman,134,8.1,197
+24,Silent Storm,2021,Thriller,Wes Anderson,Meryl Streep|Idris Elba|Florence Pugh,149,5.3,90
+25,The Wanderer,1993,Documentary,Bong Joon-ho,Meryl Streep|Joaquin Phoenix|Leonardo DiCaprio,103,5.3,27
+26,Broken Mirrors,2005,Comedy|Documentary,Denis Villeneuve,Margot Robbie|Leonardo DiCaprio,133,8.0,154
+27,The Awakening,2023,War|Romance,Peter Jackson,Jennifer Lawrence|Brad Pitt|Christian Bale|Denzel Washington,165,7.9,127
+28,Electric Sky,2010,Action,Jordan Peele,Leonardo DiCaprio|Saoirse Ronan,107,7.3,43
+29,The Guardian,2012,War,Denis Villeneuve,Natalie Portman|Cate Blanchett|Ryan Gosling|Saoirse Ronan,170,6.4,177
+30,Frozen Hearts,2023,Crime,Damien Chazelle,Zendaya|Scarlett Johansson|Denzel Washington|Brad Pitt,94,9.0,200
+31,The Observer,1999,Romance|Documentary,Peter Jackson,Robert Downey Jr.|Zendaya|Michael B. Jordan|Brad Pitt,144,7.2,23
+32,Cosmic Journey,1995,Horror|Biography|Romance,Steven Spielberg,Morgan Freeman|Denzel Washington,161,9.4,51
+33,The Defender,2018,Fantasy|Horror|Animation,Christopher Nolan,Leonardo DiCaprio|Timothée Chalamet,99,7.5,104
+34,Shattered Glass,1999,Drama|Action,Wes Anderson,Meryl Streep|Emma Stone|Robert Downey Jr.|Zendaya,111,8.0,100
+35,The Prophecy,2016,Fantasy|Drama|Thriller,Ridley Scott,Viola Davis|Tom Hanks|Cate Blanchett,174,9.2,115
+36,Ocean Deep,2005,Drama|Mystery,Quentin Tarantino,Meryl Streep|Lupita Nyongo|Jennifer Lawrence|Robert Downey Jr.|Ryan Gosling,124,6.4,68
+37,The Challenger,2004,Crime,Peter Jackson,Morgan Freeman|Brad Pitt|Leonardo DiCaprio|Emma Stone|Michael B. Jordan,145,6.8,147
+38,Lost Paradise,2011,Comedy,Greta Gerwig,Idris Elba|Brad Pitt|Meryl Streep,93,7.7,98
+39,The Witness,2010,Documentary|Animation,Quentin Tarantino,Idris Elba|Robert Downey Jr.|Brad Pitt|Meryl Streep|Timothée Chalamet,135,5.0,147
+40,Starlight,2002,Horror|Comedy,David Fincher,Zendaya|Scarlett Johansson|Florence Pugh|Natalie Portman,144,6.4,114
+41,The Survivor,2010,Fantasy|Romance,Damien Chazelle,Robert Downey Jr.|Viola Davis|Zendaya,128,8.0,54
+42,Hidden Truth,2009,Animation|Biography,Christopher Nolan,Natalie Portman|Robert Downey Jr.|Viola Davis|Idris Elba,157,7.9,129
+43,The Protector,2018,Crime|Thriller,Alfonso Cuarón,Florence Pugh|Cate Blanchett|Zendaya|Leonardo DiCaprio|Natalie Portman,145,8.0,168
+44,Midnight Sun,2011,Biography,Denis Villeneuve,Jennifer Lawrence|Robert Downey Jr.|Denzel Washington|Tom Hanks,85,6.1,131
+45,The Believer,1994,Horror|Crime,Sofia Coppola,Timothée Chalamet|Christian Bale|Lupita Nyongo,131,6.1,177
+46,Ancient Secrets,1990,Mystery,Ava DuVernay,Cate Blanchett|Timothée Chalamet|Joaquin Phoenix,139,5.2,73
+47,The Messenger,1997,Drama|Mystery,Jordan Peele,Ryan Gosling|Margot Robbie|Florence Pugh|Joaquin Phoenix,134,8.7,150
+48,Golden Hour,2018,Fantasy,Bong Joon-ho,Brad Pitt|Jennifer Lawrence|Michael B. Jordan|Joaquin Phoenix|Lupita Nyongo,160,6.1,122
+49,The Fighter,1994,Romance|Thriller|War,David Fincher,Saoirse Ronan|Leonardo DiCaprio|Denzel Washington|Jennifer Lawrence,129,8.1,190
+50,Parallel Worlds,2003,Horror,Ava DuVernay,Saoirse Ronan|Ryan Gosling|Viola Davis|Meryl Streep,106,8.7,109
